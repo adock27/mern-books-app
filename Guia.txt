@@ -1,0 +1,19 @@
+Creo un package.json:
+
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: No test specified\" && exit 1"
+        
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
+
+Ahora ejecuto en consola:
+
+> npm i sxpress mysql nodemon
